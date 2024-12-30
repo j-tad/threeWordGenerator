@@ -1,0 +1,59 @@
+Threewords.me was a viral website created by Mark Bao, a young entrepreneur, in late 2010. The concept was simple yet engaging: users could describe their friends or other users in just three words34. Here's what we know about the site:
+Background and Creation
+Created by Mark Bao, who was 18 years old at the time47.
+Launched as a side project to experiment with viral marketing and explore the idea of getting honest opinions about oneself4.
+The site went live in December 2010 and quickly gained traction39.
+Viral Success
+Within three weeks of its launch, the site had:
+A quarter of a million users
+5 million total visitors
+4.3 million words submitted
+17 million page views4
+At one point, it received more than 220,000 pageviews in just 2 hours10.
+Functionality
+Users could sign up through Facebook Connect3.
+Each user got a personalized link (e.g., http://threewords.me/username)[3].
+Visitors could describe the user in three words, optionally anonymously34.
+Users could customize their page with a personal background and avatar3.
+Reasons for Success
+Low barrier to entry
+Viral spreading mechanism
+People's natural curiosity about others' opinions of them34
+Outcome
+Due to its rapid growth and distraction from other projects, Bao decided to sell the site4.
+It was purchased by Kevin Ham, an internet entrepreneur known for owning valuable domain names4.
+Building threewords.me
+To recreate threewords.me, you would need to build a web application with the following components and flow:
+User Registration and Authentication:
+Implement Facebook Connect for easy sign-up and login.
+Create a unique profile URL for each user (e.g., threewords.me/username).
+User Profile Page:
+Design a simple, customizable page where users can add a background image and avatar.
+Display the user's name or username prominently.
+Word Submission Form:
+Create a form with three input fields for words.
+Add an optional checkbox for anonymous submissions.
+Implement a submit button to save the words.
+Word Display:
+Show submitted words on the user's profile page.
+Implement a system to filter out inappropriate content.
+Customization Options:
+Allow users to change their background image and avatar.
+Provide options to show/hide certain words or manage privacy settings.
+Social Sharing:
+Add buttons to easily share profile links on various social media platforms.
+Database:
+Set up a database to store user information, submitted words, and customization settings.
+API:
+Create API endpoints for user registration, word submission, and profile customization.
+Frontend:
+Develop a clean, responsive interface using HTML, CSS, and JavaScript.
+Ensure the site works well on both desktop and mobile devices.
+Backend:
+Implement server-side logic to handle user authentication, data storage, and retrieval.
+Set up rate limiting to prevent spam and abuse.
+Analytics:
+Integrate analytics to track user growth, engagement, and viral spread.
+Security:
+Implement measures to protect user data and prevent malicious activities.
+When instructing the Replit agent, emphasize the importance of creating a simple, intuitive user interface that allows for quick sign-up and easy word submission. The key to the site's success was its low barrier to entry and viral nature, so focus on making the process of creating and sharing profiles as frictionless as possible.
